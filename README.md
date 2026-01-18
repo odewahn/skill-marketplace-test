@@ -7,6 +7,7 @@ A curated collection of Claude Code skills for AI engineering, code explanation,
 This marketplace provides ready-to-use skills that extend Claude Code's functionality in specific domains. Skills automatically activate when relevant to your conversation, providing expert guidance and best practices.
 
 **Current Skills:**
+
 - **ai-engineering-skill** - Production ML systems, MLOps, RAG, and finetuning
 - **explaining-code** - Visual explanations with diagrams and analogies
 
@@ -18,6 +19,10 @@ Add this marketplace to your Claude Code installation:
 
 ```bash
 /plugin marketplace add https://github.com/odewahn/skill-marketplace-test.git
+
+
+/plugin marketplace add odewahn/skill-marketplace-test
+
 ```
 
 ### List Available Skills
@@ -59,6 +64,7 @@ Practical guide for building production ML systems based on Chip Huyen's AI Engi
 - Foundation model selection
 
 **Example Usage:**
+
 ```
 User: How do I implement a RAG system?
 User: What are best practices for model evaluation?
@@ -68,6 +74,7 @@ User: How do I optimize inference for cost and latency?
 
 **References:**
 The skill includes comprehensive reference materials covering:
+
 - Foundation models and selection criteria
 - Prompt engineering and safety
 - RAG and agents implementation
@@ -91,6 +98,7 @@ Makes code explanations more accessible through visual diagrams and real-world a
 - Onboarding new team members
 
 **Example Usage:**
+
 ```
 User: How does this function work?
 User: Explain this codebase to me
@@ -99,6 +107,7 @@ User: Help me understand how this algorithm works
 ```
 
 **Features:**
+
 - Starts with relatable analogies
 - Uses ASCII art diagrams for visualization
 - Step-by-step code walkthroughs
@@ -111,6 +120,7 @@ Once installed, skills automatically activate when relevant to your conversation
 **Example Workflows:**
 
 1. **Building an AI System:**
+
    ```
    You: I need to build a document Q&A system
    Claude: [activates ai-engineering-skill]
@@ -161,12 +171,14 @@ This marketplace and its skills are available under the MIT License unless other
 ## Support
 
 For issues, questions, or suggestions:
+
 - Open an issue on GitHub: [odewahn/skills-marketplace-test](https://github.com/odewahn/skills-marketplace-test)
 - Check the [examples](examples/) directory for usage patterns
 
 ## Marketplace Metadata
 
 This marketplace is identified by:
+
 - **Repository:** odewahn/skills-marketplace-test
 - **Type:** skills
 - **Version:** 1.0.0
