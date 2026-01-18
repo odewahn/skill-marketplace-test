@@ -1,0 +1,13 @@
+{
+  "name": "explaining-code",
+  "version": "1.0.0",
+  "description": "Explains code with visual diagrams and analogies to make complex concepts accessible",
+  "author": "odewahn",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "explaining-code",
+      "path": "skills/explaining-code"
+    }
+  ]
+}

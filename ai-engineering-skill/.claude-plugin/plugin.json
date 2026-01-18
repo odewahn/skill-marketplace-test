@@ -1,0 +1,13 @@
+{
+  "name": "ai-engineering-skill",
+  "version": "1.0.0",
+  "description": "Practical guide for building production ML systems based on Chip Huyen's AI Engineering book",
+  "author": "odewahn",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "ai-engineering-skill",
+      "path": "skills/ai-engineering-skill"
+    }
+  ]
+}
