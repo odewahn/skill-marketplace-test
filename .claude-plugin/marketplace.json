@@ -2,19 +2,18 @@
   "name": "odewahn-skills-marketplace",
   "owner": {
     "name": "Andrew Odewahn",
-    "email": "andrew@oreilly.com"
+    "email": "odewahn@oreilly.com"
   },
   "metadata": {
     "version": "1.0.0",
-    "description": "Test marketplace for skills"
+    "description": "Test marketplace for random skills"
   },
   "plugins": [
     {
-      "name": "examples",
-      "description": "Some sample skills",
+      "name": "odewahn-skills",
+      "description": "Collection of random skills",
       "source": "./",
-      "strict": false,
-      "skills": ["./skills/ai-engineering-skill", "./skills/explaining-code"]
+      "strict": false
     }
   ]
 }
