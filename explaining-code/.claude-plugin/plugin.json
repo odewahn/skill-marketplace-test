@@ -2,7 +2,10 @@
   "name": "explaining-code",
   "version": "1.0.0",
   "description": "Explains code with visual diagrams and analogies to make complex concepts accessible",
-  "author": "odewahn",
+  "owner": {
+    "name": "odewahn",
+    "url": "https://github.com/odewahn"
+  },
   "license": "MIT",
   "skills": [
     {
