@@ -2,7 +2,7 @@
   "name": "ai-engineering-skill",
   "version": "1.0.0",
   "description": "Practical guide for building production ML systems based on Chip Huyen's AI Engineering book",
-  "owner": {
+  "author": {
     "name": "odewahn",
     "url": "https://github.com/odewahn"
   },
