@@ -10,14 +10,14 @@
   "plugins": [
     {
       "name": "ai-engineering-skill",
-      "path": "skills/ai-engineering-skill",
+      "source": "skills/ai-engineering-skill",
       "version": "1.0.0",
       "description": "Practical guide for building production ML systems",
       "tags": ["ai", "ml", "production", "mlops", "rag", "finetuning"]
     },
     {
       "name": "explaining-code",
-      "path": "skills/explaining-code",
+      "source": "skills/explaining-code",
       "version": "1.0.0",
       "description": "Explains code with visual diagrams and analogies!",
       "tags": ["teaching", "documentation", "code-review"]
