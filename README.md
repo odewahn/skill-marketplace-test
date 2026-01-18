@@ -17,7 +17,7 @@ This marketplace provides ready-to-use skills that extend Claude Code's function
 Add this marketplace to your Claude Code installation:
 
 ```bash
-/plugin marketplace add odewahn/skills-marketplace-test
+/plugin marketplace add https://github.com/odewahn/skill-marketplace-test.git
 ```
 
 ### List Available Skills
