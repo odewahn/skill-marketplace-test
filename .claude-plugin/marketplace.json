@@ -1,21 +1,20 @@
 {
   "name": "odewahn-skills-marketplace",
-  "version": "1.0.0",
-  "description": "Test marketplace for skills",
-  "author": {
+  "owner": {
     "name": "Andrew Odewahn",
     "email": "andrew@oreilly.com"
   },
-  "skills": [
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Test marketplace for skills"
+  },
+  "plugins": [
     {
-      "name": "explaining-code",
-      "description": "Explains code with visual diagrams and analogies!",
-      "path": "skills/explaining-code"
-    },
-    {
-      "name": "ai-engineering-skill",
-      "description": "Practical guide for building production ML systems",
-      "path": "skills/ai-engineering-skill"
+      "name": "examples",
+      "description": "Some sample skills",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/ai-engineering-skill", "./skills/explaining-code"]
     }
   ]
 }
