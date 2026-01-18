@@ -2,11 +2,12 @@
   "name": "odewahn-skills-marketplace",
   "version": "1.0.0",
   "description": "A curated collection of Claude Code skills for AI engineering, code explanation, and more",
-  "repository": "https://github.com/odewahn/skills-marketplace-test",
-  "author": "odewahn",
-  "type": "skills",
-  "skills_directory": "skills",
-  "skills": [
+  "repository": "https://github.com/odewahn/skill-marketplace-test",
+  "owner": {
+    "name": "odewahn",
+    "url": "https://github.com/odewahn"
+  },
+  "plugins": [
     {
       "name": "ai-engineering-skill",
       "path": "skills/ai-engineering-skill",
