@@ -1,3 +1,11 @@
+# Stuff that works
+
+Install the marketplace:
+
+```
+/plugin marketplace add odewahn/skill-marketplace-test
+```
+
 # Claude Skills Marketplace
 
 A curated collection of Claude Code skills for AI engineering, code explanation, and more. These skills enhance Claude's capabilities by providing domain-specific knowledge and structured approaches to common development tasks.
@@ -21,7 +29,6 @@ Add this marketplace to your Claude Code installation:
 /plugin marketplace add https://github.com/odewahn/skill-marketplace-test.git
 
 
-/plugin marketplace add odewahn/skill-marketplace-test
 
 ```
 

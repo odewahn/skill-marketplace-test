@@ -14,16 +14,7 @@
       "description": "Some sample skills",
       "source": "./",
       "strict": false,
-      "skills": [
-        {
-          "name": "ai-engineering-skill",
-          "path": "skills/ai-engineering-skill"
-        },
-        {
-          "name": "explaining-code",
-          "path": "skills/explaining-code"
-        }
-      ]
+      "skills": ["./skills/ai-engineering-skill", "./skills/explaining-code"]
     }
   ]
 }
