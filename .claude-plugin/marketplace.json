@@ -18,7 +18,7 @@
       "name": "explaining-code",
       "path": "skills/explaining-code",
       "version": "1.0.0",
-      "description": "Explains code with visual diagrams and analogies",
+      "description": "Explains code with visual diagrams and analogies!",
       "tags": ["teaching", "documentation", "code-review"]
     }
   ]
