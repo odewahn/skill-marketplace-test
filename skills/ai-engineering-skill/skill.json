@@ -1,0 +1,22 @@
+{
+  "name": "ai-engineering-skill",
+  "version": "1.0.0",
+  "description": "Practical guide for building production ML systems based on Chip Huyen's AI Engineering book",
+  "author": "odewahn",
+  "license": "MIT",
+  "tags": ["ai", "ml", "production", "mlops", "rag", "finetuning"],
+  "created": "2026-01-18",
+  "updated": "2026-01-18",
+  "dependencies": [],
+  "files": {
+    "main": "SKILL.md",
+    "references": "references/"
+  },
+  "usage_examples": [
+    "How do I implement a RAG system?",
+    "What are best practices for model evaluation?",
+    "Should I use finetuning or RAG?",
+    "How do I optimize inference for cost and latency?",
+    "What metrics should I use to evaluate my AI system?"
+  ]
+}

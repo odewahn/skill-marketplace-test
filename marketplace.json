@@ -1,0 +1,25 @@
+{
+  "name": "odewahn-skills-marketplace",
+  "version": "1.0.0",
+  "description": "A curated collection of Claude Code skills for AI engineering, code explanation, and more",
+  "repository": "https://github.com/odewahn/skills-marketplace-test",
+  "author": "odewahn",
+  "type": "skills",
+  "skills_directory": "skills",
+  "skills": [
+    {
+      "name": "ai-engineering-skill",
+      "path": "skills/ai-engineering-skill",
+      "version": "1.0.0",
+      "description": "Practical guide for building production ML systems",
+      "tags": ["ai", "ml", "production", "mlops", "rag", "finetuning"]
+    },
+    {
+      "name": "explaining-code",
+      "path": "skills/explaining-code",
+      "version": "1.0.0",
+      "description": "Explains code with visual diagrams and analogies",
+      "tags": ["teaching", "documentation", "code-review"]
+    }
+  ]
+}

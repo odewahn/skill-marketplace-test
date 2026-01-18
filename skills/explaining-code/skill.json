@@ -1,0 +1,20 @@
+{
+  "name": "explaining-code",
+  "version": "1.0.0",
+  "description": "Explains code with visual diagrams and analogies to make complex concepts accessible",
+  "author": "odewahn",
+  "license": "MIT",
+  "tags": ["teaching", "documentation", "code-review", "education", "learning"],
+  "created": "2026-01-18",
+  "updated": "2026-01-18",
+  "dependencies": [],
+  "files": {
+    "main": "SKILL.md"
+  },
+  "usage_examples": [
+    "How does this function work?",
+    "Explain this codebase to me",
+    "Can you walk me through what this code does?",
+    "Help me understand how this algorithm works"
+  ]
+}
