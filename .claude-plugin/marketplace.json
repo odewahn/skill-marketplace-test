@@ -5,16 +5,16 @@
   },
   "plugins": [
     {
-      "name": "explain-code",
-      "source": "./skills/explain-code",
+      "name": "explaining-code",
+      "source": "./skills/explaining-code",
       "description": "Visual explanations with diagrams and analogies",
       "strict": false,
       "skills": ["./"]
     },
     {
-      "name": "bug-detective",
-      "source": "./skills/bug-detective",
-      "description": "Helps identify and fix bugs",
+      "name": "ai-engineering-skill",
+      "source": "./skills/ai-engineering-skill",
+      "description": "Assist with AI engineering tasks and best practices",
       "strict": false,
       "skills": ["./"]
     }
