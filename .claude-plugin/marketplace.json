@@ -1,19 +1,22 @@
 {
-  "name": "odewahn-skills-marketplace",
+  "name": "skill-marketplace-test",
   "owner": {
-    "name": "Andrew Odewahn",
-    "email": "odewahn@oreilly.com"
-  },
-  "metadata": {
-    "version": "1.0.0",
-    "description": "Test marketplace for random skills"
+    "name": "Andrew Odewahn"
   },
   "plugins": [
     {
-      "name": "odewahn-skills",
-      "description": "Collection of random skills",
-      "source": "./",
-      "strict": false
+      "name": "explain-code",
+      "source": "./skills/explain-code",
+      "description": "Visual explanations with diagrams and analogies",
+      "strict": false,
+      "skills": ["./"]
+    },
+    {
+      "name": "bug-detective",
+      "source": "./skills/bug-detective",
+      "description": "Helps identify and fix bugs",
+      "strict": false,
+      "skills": ["./"]
     }
   ]
 }
