@@ -17,6 +17,13 @@
       "description": "Assist with AI engineering tasks and best practices",
       "strict": false,
       "skills": ["./"]
+    },
+    {
+      "name": "ddia-streaming-with-kinesis",
+      "source": "./skills/ddia-streaming-with-kinesis",
+      "description": "Learn streaming with Kinesis from Designing Data-Intensive Applications",
+      "strict": false,
+      "skills": ["./"]
     }
   ]
 }
