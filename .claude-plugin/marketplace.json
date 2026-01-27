@@ -9,21 +9,21 @@
       "source": "./skills/explaining-code",
       "description": "Visual explanations with diagrams and analogies",
       "strict": false,
-      "skills": ["./"]
+      "commands": ["./"]
     },
     {
       "name": "ai-engineering-skill",
       "source": "./skills/ai-engineering-skill",
       "description": "Assist with AI engineering tasks and best practices",
       "strict": false,
-      "skills": ["./"]
+      "commands": ["./"]
     },
     {
       "name": "ddia-streaming-with-kinesis",
       "source": "./skills/ddia-streaming-with-kinesis",
       "description": "Learn streaming with Kinesis from Designing Data-Intensive Applications",
       "strict": false,
-      "skills": ["./"]
+      "commands": ["./"]
     }
   ]
 }
